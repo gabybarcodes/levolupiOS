@@ -13,7 +13,7 @@ levolup is a personal activity tracker for iOS. Log your sessions, track weekly 
 
 Having an issue or a question? Reach out:
 
-**Email:** gabybarroeta@gmail.com
+**Email:** cuentaparalela753@gmail.com
 
 We typically respond within 48 hours.
 
