@@ -5,7 +5,7 @@ iOS habit &amp; activity tracker. Log sessions, build streaks, save resources to
 
 **Level up your habits. Every day.**
 
-levolup is a personal activity tracker for iOS. Log your sessions, track weekly goals, build streaks, and save resources to your activity Hubs — all stored privately on your device.
+levolup is a personal activity tracker for iOS. Log your sessions, track weekly goals, build streaks, and save resources to your activity Hubs, all stored privately on your device.
 
 ---
 
